@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tjddb
+ *
+ */
+module sample {
+}
